@@ -356,25 +356,30 @@ function App() {
                   <div className="grid md:grid-cols-2 gap-8">
                     {[
                       {
-                        icon: <Heart className="w-8 h-8" />,
-                        title: "To Love You Unconditionally",
-                        description: "Through every season of life, in every moment, with all that I am."
-                      },
-                      {
-                        icon: <Star className="w-8 h-8" />,
-                        title: "To Support Your Dreams",
-                        description: "I'll be your biggest cheerleader and help you reach for the stars."
-                      },
-                      {
-                        icon: <Sparkles className="w-8 h-8" />,
-                        title: "To Make You Smile Daily",
-                        description: "I promise to do everything I can to bring joy to your beautiful face."
-                      },
-                      {
-                        icon: <Gift className="w-8 h-8" />,
-                        title: "To Cherish Every Moment",
-                        description: "Every second with you is a gift I'll treasure forever."
-                      }
+  icon: <Heart className="w-8 h-8" />,
+  title: "To Survive Your Mood Swings",
+  description: "Even when you randomly decide to be mad at me for reasons I still haven't discovered."
+},
+{
+  icon: <Star className="w-8 h-8" />,
+  title: "To Support Your Crazy Ideas",
+  description: "Whether your plans are brilliant, questionable, or slightly chaotic… I’ll still be cheering for you."
+},
+{
+  icon: <Sparkles className="w-8 h-8" />,
+  title: "To Keep You Smiling",
+  description: "Even if it means making terrible jokes or acting a little stupid just to see you laugh."
+},
+{
+  icon: <Gift className="w-8 h-8" />,
+  title: "To Enjoy Our Random Moments",
+  description: "Because somehow our normal conversations always turn into the most entertaining chaos."
+}
+{
+  icon: <Sparkles className="w-8 h-8" />,
+  title: "To Clear My Name",
+  description: "One day I will successfully prove that I'm actually innocent of all the things you accuse me of."
+}
                     ].map((promise, index) => (
                       <div key={index} className="bg-white/60 backdrop-blur-lg rounded-2xl p-8 shadow-xl border border-white/40 hover:shadow-2xl transition-all duration-500 hover:scale-105">
                         <div className="flex items-start space-x-4">
