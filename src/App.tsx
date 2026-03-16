@@ -374,11 +374,6 @@ function App() {
   icon: <Gift className="w-8 h-8" />,
   title: "To Enjoy Our Random Moments",
   description: "Because somehow our normal conversations always turn into the most entertaining chaos."
-},
-{
-  icon: <Sparkles className="w-8 h-8" />,
-  title: "To Clear My Name",
-  description: "One day I will successfully prove that I'm actually innocent of all the things you accuse me of."
 }
                     ].map((promise, index) => (
                       <div key={index} className="bg-white/60 backdrop-blur-lg rounded-2xl p-8 shadow-xl border border-white/40 hover:shadow-2xl transition-all duration-500 hover:scale-105">
