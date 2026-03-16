@@ -374,7 +374,7 @@ function App() {
   icon: <Gift className="w-8 h-8" />,
   title: "To Enjoy Our Random Moments",
   description: "Because somehow our normal conversations always turn into the most entertaining chaos."
-}
+},
 {
   icon: <Sparkles className="w-8 h-8" />,
   title: "To Clear My Name",
