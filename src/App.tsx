@@ -269,7 +269,7 @@ function App() {
                 </div>
               </section>
 
-              {/* Our Journey Timeline */}
+              {/* Our Journey Timeline
               <section className="scroll-reveal mb-24">
                 <div className="text-center mb-16">
                   <h3 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent mb-6 font-dancing">
@@ -282,7 +282,7 @@ function App() {
 
                 <div className="max-w-6xl mx-auto relative">
                   {/* Timeline line */}
-                  <div className="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-gradient-to-b from-pink-300 via-purple-300 to-indigo-300 rounded-full opacity-40 hidden lg:block" />
+                  {/* <div className="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-gradient-to-b from-pink-300 via-purple-300 to-indigo-300 rounded-full opacity-40 hidden lg:block" />
 
                   {ourMoments.map((moment, index) => (
                     <div
@@ -309,7 +309,7 @@ function App() {
                       </div>
                       
                       {/* Center icon for large screens */}
-                      <div className="relative z-10 hidden lg:block">
+                      {/* <div className="relative z-10 hidden lg:block">
                         <div className={`w-20 h-20 bg-gradient-to-r ${moment.color} rounded-full flex items-center justify-center text-white shadow-2xl border-4 border-white`}>
                           {moment.icon}
                         </div>
@@ -327,9 +327,9 @@ function App() {
                     </div>
                   ))}
                 </div>
-              </section>
+              </section> */
 
-              {/* Photo Gallery */}
+              {/* Photo Gallery
               <section className="scroll-reveal mb-24">
                 <div className="text-center mb-16">
                   <h3 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent mb-6 font-dancing">
@@ -363,7 +363,7 @@ function App() {
                     </div>
                   ))}
                 </div>
-              </section>
+              </section> */}
 
               {/* Love Letter Section */}
               <section className="scroll-reveal mb-24">
