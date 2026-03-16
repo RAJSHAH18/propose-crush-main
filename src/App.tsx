@@ -218,7 +218,7 @@ function App() {
                   <div className="flex items-center space-x-4">
                     <div className="text-3xl animate-pulse">💖</div>
                     <h1 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent font-dancing">
-                      For My Beautiful Anshika
+                      For My Beautiful Jaanum
                     </h1>
                     <div className="text-3xl animate-pulse">💖</div>
                   </div>
@@ -232,7 +232,7 @@ function App() {
                 <div className="mb-12">
                   <div className="text-8xl mb-6 animate-bounce">💌</div>
                   <h2 className="text-6xl md:text-8xl font-bold bg-gradient-to-r from-pink-600 via-rose-500 to-purple-600 bg-clip-text text-transparent mb-8 font-dancing leading-tight">
-                    Hey Anshika...
+                    Hey Jaanum...
                   </h2>
                   <p className="text-2xl md:text-3xl text-gray-700 max-w-4xl mx-auto leading-relaxed mb-8">
                     I made this entire website just for you because some feelings are too big for just words... 
@@ -247,7 +247,7 @@ function App() {
               <section className="scroll-reveal mb-24">
                 <div className="text-center mb-16">
                   <h3 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent mb-6 font-dancing">
-                    Why You're So Special, Anshika
+                    Why You're So Special, Jaanum
                   </h3>
                   <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                     Let me tell you all the reasons why you make my heart skip a beat...
@@ -276,7 +276,7 @@ function App() {
                     Our Beautiful Journey Together
                   </h3>
                   <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Every moment with you has been a treasure, Anshika. Here are some of my favorites...
+                    Every moment with you has been a treasure, Jaanum. Here are some of my favorites...
                   </p>
                 </div>
 
@@ -378,7 +378,7 @@ function App() {
                     
                     <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed space-y-6">
                       <p className="text-xl md:text-2xl font-medium text-center mb-8 text-gray-800">
-                        Dearest Anshika,
+                        Dearest Jaanum,
                       </p>
                       
                       <p className="text-lg md:text-xl">
@@ -394,11 +394,11 @@ function App() {
                       </p>
                       
                       <p className="text-lg md:text-xl">
-                        Anshika, what I'm trying to say is... I've fallen completely and utterly in love with you. Not just with how beautiful you are (though you absolutely are), but with your heart, your mind, your soul - everything that makes you uniquely you.
+                        Jaanum, what I'm trying to say is... I've fallen completely and utterly in love with you. Not just with how beautiful you are (though you absolutely are), but with your heart, your mind, your soul - everything that makes you uniquely you.
                       </p>
                       
                       <p className="text-xl md:text-2xl font-bold text-center mt-12 text-gray-800">
-                        I love you, Anshika. 💖
+                        I love you, Jaanum. 💖
                       </p>
                     </div>
                   </div>
@@ -411,7 +411,7 @@ function App() {
                   <div className="bg-gradient-to-r from-pink-500 to-purple-500 rounded-3xl p-12 md:p-16 shadow-2xl text-white">
                     <div className="text-8xl mb-8">💍</div>
                     <h3 className="text-4xl md:text-6xl font-bold mb-8 font-dancing">
-                      Anshika, Will You Be Mine?
+                      Jaanum, Will You Be Mine?
                     </h3>
                     <p className="text-xl md:text-2xl mb-12 leading-relaxed">
                       I want to create a million more beautiful memories with you. I want to be the reason you smile every day. I want to love you with all my heart, today and always.
@@ -488,7 +488,7 @@ function App() {
                 <div className="text-9xl mb-8 animate-bounce">🎉</div>
                 
                 <h2 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent mb-8 font-dancing">
-                  Thank You for Reading, Anshika! 💕
+                  Thank You for Reading, Jaanum! 💕
                 </h2>
                 
                 <p className="text-2xl md:text-3xl text-gray-700 mb-8 leading-relaxed">
@@ -536,7 +536,7 @@ function App() {
           <footer className="fade-in text-center py-16">
             <div className="max-w-md mx-auto bg-white/40 backdrop-blur-sm rounded-3xl p-8 border border-white/50">
               <p className="text-gray-700 font-dancing text-2xl mb-2">
-                Made with 💖 just for Anshika
+                Made with 💖 just for Jaanum
               </p>
               <p className="text-gray-500 text-lg">
                 Because you deserve something as special as you are
