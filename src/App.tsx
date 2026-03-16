@@ -282,29 +282,37 @@ function App() {
                     </div>
                     
                     <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed space-y-6">
-                      <p className="text-xl md:text-2xl font-medium text-center mb-8 text-gray-800">
-                        Dearest Jaanum,
-                      </p>
-                      
-                      <p className="text-lg md:text-xl">
-                        I've been carrying these feelings in my heart for so long, and today I finally found the courage to share them with you. You've become such an important part of my life, and I can't imagine my days without thinking about you.
-                      </p>
-                      
-                      <p className="text-lg md:text-xl">
-                        Every conversation we have, every moment we spend together, every time you laugh at something silly I say - these moments have become the highlights of my days. You have this incredible way of making everything better just by being yourself.
-                      </p>
-                      
-                      <p className="text-lg md:text-xl">
-                        I love how passionate you are about the things you care about. I love how you see the world with such wonder and kindness. I love how you make me want to be a better person just by being in your presence.
-                      </p>
-                      
-                      <p className="text-lg md:text-xl">
-                        Jaanum, what I'm trying to say is... I've fallen completely and utterly in love with you. Not just with how beautiful you are (though you absolutely are), but with your heart, your mind, your soul - everything that makes you uniquely you.
-                      </p>
-                      
-                      <p className="text-xl md:text-2xl font-bold text-center mt-12 text-gray-800">
-                        I love you, Jaanum. 💖
-                      </p>
+                   <p className="text-xl md:text-2xl font-medium text-center mb-8 text-gray-800">
+  Dear Jaanum,
+</p>
+
+<p className="text-lg md:text-xl">
+  Before you start overthinking this message… relax. This is not a dramatic movie confession scene. No violins, no background music, just me sitting here trying to write something without sounding too serious.
+</p>
+
+<p className="text-lg md:text-xl">
+  Somehow our normal conversations always turn into a full adventure. We start with one simple topic and suddenly we’re laughing about something completely random. And the fact that you laugh at my terrible jokes is honestly still one of my proudest achievements.
+</p>
+
+<p className="text-lg md:text-xl">
+  Also, I’ve noticed something strange… because of you I now check my phone way more than I should. If my productivity in life ever drops, I’m officially blaming you for it.
+</p>
+
+<p className="text-lg md:text-xl">
+  Another funny thing is how sometimes you think I’m secretly planning something suspicious even when I’m being completely normal. Your detective mode is always on. But honestly, that’s part of what makes talking to you so entertaining.
+</p>
+
+<p className="text-lg md:text-xl">
+  Jokes aside, I really admire how passionate you are about the things you care about. You see the world with a kind of curiosity and kindness that’s honestly rare. Being around that kind of energy quietly makes me want to become a slightly better version of myself.
+</p>
+
+<p className="text-lg md:text-xl">
+  Somewhere between all the random talks, the teasing, and the pointless arguments… you somehow became one of the nicest parts of my day. Even if you still think I’m suspicious half the time.
+</p>
+
+<p className="text-xl md:text-2xl font-bold text-center mt-12 text-gray-800">
+  Anyway… thank you for being you. And please continue tolerating me. 🙂
+</p>
                     </div>
                   </div>
                 </div>
