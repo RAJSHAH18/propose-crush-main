@@ -283,36 +283,36 @@ function App() {
                     
                     <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed space-y-6">
                    <p className="text-xl md:text-2xl font-medium text-center mb-8 text-gray-800">
-  Dear Jaanum,
-</p>
+                      Dear Jaanum,
+                    </p>
 
-<p className="text-lg md:text-xl">
-  Before you start overthinking this message… relax. This is not a dramatic movie confession scene. No violins, no background music, just me sitting here trying to write something without sounding too serious.
-</p>
+                    <p className="text-lg md:text-xl">
+                      Before you start overthinking this message… relax. This is not a dramatic movie confession scene. No violins, no background music, just me sitting here trying to write something without sounding too serious.
+                    </p>
 
-<p className="text-lg md:text-xl">
-  Somehow our normal conversations always turn into a full adventure. We start with one simple topic and suddenly we’re laughing about something completely random. And the fact that you laugh at my terrible jokes is honestly still one of my proudest achievements.
-</p>
+                    <p className="text-lg md:text-xl">
+                      Somehow our normal conversations always turn into a full adventure. We start with one simple topic and suddenly we’re laughing about something completely random. And the fact that you laugh at my terrible jokes is honestly still one of my proudest achievements.
+                    </p>
 
-<p className="text-lg md:text-xl">
-  Also, I’ve noticed something strange… because of you I now check my phone way more than I should. If my productivity in life ever drops, I’m officially blaming you for it.
-</p>
+                    <p className="text-lg md:text-xl">
+                      Also, I’ve noticed something strange… because of you I now check my phone way more than I should. If my productivity in life ever drops, I’m officially blaming you for it.
+                    </p>
 
-<p className="text-lg md:text-xl">
-  Another funny thing is how sometimes you think I’m secretly planning something suspicious even when I’m being completely normal. Your detective mode is always on. But honestly, that’s part of what makes talking to you so entertaining.
-</p>
+                    <p className="text-lg md:text-xl">
+                      Another funny thing is how sometimes you think I’m secretly planning something suspicious even when I’m being completely normal. Your detective mode is always on. But honestly, that’s part of what makes talking to you so entertaining.
+                    </p>
 
-<p className="text-lg md:text-xl">
-  Jokes aside, I really admire how passionate you are about the things you care about. You see the world with a kind of curiosity and kindness that’s honestly rare. Being around that kind of energy quietly makes me want to become a slightly better version of myself.
-</p>
+                    <p className="text-lg md:text-xl">
+                      Jokes aside, I really admire how passionate you are about the things you care about. You see the world with a kind of curiosity and kindness that’s honestly rare. Being around that kind of energy quietly makes me want to become a slightly better version of myself.
+                    </p>
 
-<p className="text-lg md:text-xl">
-  Somewhere between all the random talks, the teasing, and the pointless arguments… you somehow became one of the nicest parts of my day. Even if you still think I’m suspicious half the time.
-</p>
+                    <p className="text-lg md:text-xl">
+                      Somewhere between all the random talks, the teasing, and the pointless arguments… you somehow became one of the nicest parts of my day. Even if you still think I’m suspicious half the time.
+                    </p>
 
-<p className="text-xl md:text-2xl font-bold text-center mt-12 text-gray-800">
-  Anyway… thank you for being you. And please continue tolerating me. 🙂
-</p>
+                    <p className="text-xl md:text-2xl font-bold text-center mt-12 text-gray-800">
+                      Anyway… thank you for being you. And please continue tolerating me. 🙂
+                    </p>
                     </div>
                   </div>
                 </div>
