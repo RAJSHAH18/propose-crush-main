@@ -317,6 +317,7 @@ function App() {
                   </div>
                 </div>
               </section>
+            
 
               {/* The Big Question */}
               <section className="scroll-reveal mb-24">
@@ -324,7 +325,7 @@ function App() {
                   <div className="bg-gradient-to-r from-pink-500 to-purple-500 rounded-3xl p-12 md:p-16 shadow-2xl text-white">
                     <div className="text-8xl mb-8">💍</div>
                     <h3 className="text-4xl md:text-6xl font-bold mb-8 font-dancing">
-                      Cutiee, Will You Be Mine?
+                      Cutiee, Will You Be Mine CP?
                     </h3>
                     <p className="text-xl md:text-2xl mb-12 leading-relaxed">
                       I want to create a million more beautiful memories with you. I want to be the reason you smile every day. I want to love you with all my heart, today and always.
@@ -434,7 +435,7 @@ function App() {
                 </div>
 
                 <button
-                  onClick={() => setShowFinalMessage(false)}
+                  onClick={() => window.location.href = "https://rajshah18.github.io/Creativity/"}
                   className="mt-12 px-8 py-4 bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-2xl font-medium text-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
                 >
                   Read Again 💕
