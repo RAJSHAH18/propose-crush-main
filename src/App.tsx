@@ -438,7 +438,7 @@ function App() {
                   onClick={() => window.location.href = "https://rajshah18.github.io/Creativity/"}
                   className="mt-12 px-8 py-4 bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-2xl font-medium text-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
                 >
-                  Read Again 💕
+                  Click Here 💕
                 </button>
               </div>
             </div>
